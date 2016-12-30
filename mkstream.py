@@ -80,7 +80,7 @@ class listener(StreamListener):
 			if hashtags != None:
 				if geo != None:
 					if full_date != None:
-			#print "We have mined: " + '(' + '"' + hashtags + '",' + "''"+ ', ' + geo + ', ' + full_date + ');'
+			
 
 						print hashtags + geo + '  ' + full_date
 			return True
